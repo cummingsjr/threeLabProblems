@@ -1,0 +1,16 @@
+c:\Users\Pop73\CSCI1250\lab06-three-problems\threeLabProblems\bin\Debug\net11.0\threeLabProblems.exe
+c:\Users\Pop73\CSCI1250\lab06-three-problems\threeLabProblems\bin\Debug\net11.0\threeLabProblems.deps.json
+c:\Users\Pop73\CSCI1250\lab06-three-problems\threeLabProblems\bin\Debug\net11.0\threeLabProblems.runtimeconfig.json
+c:\Users\Pop73\CSCI1250\lab06-three-problems\threeLabProblems\bin\Debug\net11.0\threeLabProblems.runtimeconfig.dev.json
+c:\Users\Pop73\CSCI1250\lab06-three-problems\threeLabProblems\bin\Debug\net11.0\threeLabProblems.dll
+c:\Users\Pop73\CSCI1250\lab06-three-problems\threeLabProblems\bin\Debug\net11.0\threeLabProblems.pdb
+c:\Users\Pop73\CSCI1250\lab06-three-problems\threeLabProblems\obj\Debug\net11.0\threeLabProblems.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Pop73\CSCI1250\lab06-three-problems\threeLabProblems\obj\Debug\net11.0\threeLabProblems.AssemblyInfoInputs.cache
+c:\Users\Pop73\CSCI1250\lab06-three-problems\threeLabProblems\obj\Debug\net11.0\threeLabProblems.AssemblyInfo.cs
+c:\Users\Pop73\CSCI1250\lab06-three-problems\threeLabProblems\obj\Debug\net11.0\threeLabProblems.csproj.CoreCompileInputs.cache
+c:\Users\Pop73\CSCI1250\lab06-three-problems\threeLabProblems\obj\Debug\net11.0\threeLabProblems.dll
+c:\Users\Pop73\CSCI1250\lab06-three-problems\threeLabProblems\obj\Debug\net11.0\refint\threeLabProblems.dll
+c:\Users\Pop73\CSCI1250\lab06-three-problems\threeLabProblems\obj\Debug\net11.0\threeLabProblems.pdb
+c:\Users\Pop73\CSCI1250\lab06-three-problems\threeLabProblems\obj\Debug\net11.0\threeLabProblems.genruntimeconfig.cache
+c:\Users\Pop73\CSCI1250\lab06-three-problems\threeLabProblems\obj\Debug\net11.0\ref\threeLabProblems.dll
+c:\Users\Pop73\CSCI1250\lab06-three-problems\threeLabProblems\obj\Debug\net11.0\threeLab.E7853219.Up2Date
