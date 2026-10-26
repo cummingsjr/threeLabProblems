@@ -1,4 +1,14 @@
-﻿
+﻿/*
+* Name: James Cummings
+* Course: CSCI 1250, Section 001
+* Assignment: Lab 6, threeLabProblems
+* Date: October 21, 2026
+* Description: Create an app for three lab problems, allowing the user to select which problem to run.
+*/
+
+
+
+
 int[] choice = { 1, 2, 3, 4, 5 };
 
 string[] choiceNames =
