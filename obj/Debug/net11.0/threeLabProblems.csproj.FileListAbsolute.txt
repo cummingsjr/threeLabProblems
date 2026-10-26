@@ -14,3 +14,4 @@ c:\Users\Pop73\CSCI1250\lab06-three-problems\threeLabProblems\obj\Debug\net11.0\
 c:\Users\Pop73\CSCI1250\lab06-three-problems\threeLabProblems\obj\Debug\net11.0\threeLabProblems.genruntimeconfig.cache
 c:\Users\Pop73\CSCI1250\lab06-three-problems\threeLabProblems\obj\Debug\net11.0\ref\threeLabProblems.dll
 c:\Users\Pop73\CSCI1250\lab06-three-problems\threeLabProblems\obj\Debug\net11.0\threeLab.E7853219.Up2Date
+c:\Users\Pop73\CSCI1250\lab06-three-problems\threeLabProblems\obj\Debug\net11.0\threeLabProblems.sourcelink.json

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Pop73\\CSCI1250\\lab06-three-problems\\threeLabProblems\\threeLabProblems.csproj": {}
+    "c:\\Users\\Pop73\\CSCI1250\\lab06-three-problems\\threeLabProblems\\threeLabProblems.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Pop73\\CSCI1250\\lab06-three-problems\\threeLabProblems\\threeLabProblems.csproj": {
+    "c:\\Users\\Pop73\\CSCI1250\\lab06-three-problems\\threeLabProblems\\threeLabProblems.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Pop73\\CSCI1250\\lab06-three-problems\\threeLabProblems\\threeLabProblems.csproj",
+        "projectUniqueName": "c:\\Users\\Pop73\\CSCI1250\\lab06-three-problems\\threeLabProblems\\threeLabProblems.csproj",
         "projectName": "threeLabProblems",
-        "projectPath": "C:\\Users\\Pop73\\CSCI1250\\lab06-three-problems\\threeLabProblems\\threeLabProblems.csproj",
+        "projectPath": "c:\\Users\\Pop73\\CSCI1250\\lab06-three-problems\\threeLabProblems\\threeLabProblems.csproj",
         "packagesPath": "C:\\Users\\Pop73\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Pop73\\CSCI1250\\lab06-three-problems\\threeLabProblems\\obj\\",
+        "outputPath": "c:\\Users\\Pop73\\CSCI1250\\lab06-three-problems\\threeLabProblems\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Pop73\\AppData\\Roaming\\NuGet\\NuGet.Config"
